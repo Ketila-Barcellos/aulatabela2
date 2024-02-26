@@ -1,0 +1,15 @@
+.tabelamoda th{
+    background-color:  #BB86FC;
+}
+
+.tabelacasa th{
+    background-color: #00C4B4;
+}
+
+td{
+    background-color: #424250;
+}
+
+table{
+    color: aliceblue;
+}
